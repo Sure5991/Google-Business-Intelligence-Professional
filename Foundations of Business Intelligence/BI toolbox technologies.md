@@ -73,15 +73,15 @@ Effective data visualizations.
 
 Make your visualizations accessible and useful to everyone in your audience by keeping in mind the following:
 
-Labeling
+* Labeling
 
-Text alternatives
+* Text alternatives
 
-Text-based format
+* Text-based format
 
-Distinguishing
+* Distinguishing
 
-Simplifying
+* Simplifying
 
 To learn more about accessible visualizations, check out this video from the Google Data Analytics Certificate: 
 Making Data Visualizations Accessible.
