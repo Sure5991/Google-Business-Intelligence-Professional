@@ -1,0 +1,27 @@
+# How to identify key metrics for a project
+## Choosing your metrics
+In a previous video, you learned how business intelligence professionals determine which metrics to include in their dashboards to deliver relevant and actionable data to their stakeholders. In this reading, you’re going to consider how choosing the right metrics can determine the success of a project. You’ll do this by exploring an example of a BI professional identifying key metrics for their project.
+
+There are five key points BI professionals take into account when choosing metrics:
+
+1. **The number of metrics:** More information is not always better. BI professionals limit the number of metrics on dashboards to focus specifically on the ones that are key to a project’s success. Key metrics are relevant and actionable. For instance, if metric X drops, is this good or bad? What action would a user take if it dropped that would be different if it rose instead? Too many metrics that aren’t relevant to the project can be confusing and make your dashboard less effective. The goal isn’t to overload the dashboard to account for every single use case, but 80% of the common use cases.
+
+2. **Alignment with business objectives:** Understanding the business objectives can help you narrow down which metrics will support those goals and measure their success. For example, if the business objective is to increase sales, include revenue in your dashboard. You will most likely not want to include a metric such as customer satisfaction because that is not directly related to the business objective of increasing sales.
+
+3. **The necessary technologies and processes:** It’s important to confirm that the necessary technologies and processes are in place for the metrics you’re choosing. If you can’t obtain and analyze the necessary data, then those metrics aren’t going to be very useful.
+
+4. **The cadence of data:** You have to consider how frequently the data becomes available. If a lot of metrics are delivered at a different cadence and frequency, it becomes difficult to schedule a review.
+
+5. **Use SMART methodology:** If you earned your Google Data Analytics Certificate, you know the SMART methodology is a useful tool for creating effective questions to ask stakeholders. It can also be used to identify and refine key metrics by ensuring that they are specific, measurable, action-oriented, relevant, and time-bound. This can help you avoid vague or super-high-level metrics that aren’t useful to stakeholders, and instead create metrics that are precise and informative.
+
+## An integrated view
+In the BI world, data requires a dynamic and thoughtful approach to detect and respond to events as they happen. An integrated view of the whole business is required. In some cases, metrics can be straightforward. For example, revenue is fairly unambiguous: Revenue goes up, and things are going well! But other metrics are a little more complicated.
+
+In an earlier reading, you discovered the importance of context for the CloudIsCool Support team when measuring their ability to effectively answer customer support questions. As a refresher, a customer support ticket was created every time a customer reached out for support. These tickets were addressed by the first response team at CloudIsCool. Sometimes the first response team needed help answering more complex tickets. They would then reach out to the second response team. This was marked as a consult on the support ticket.
+
+Imagine that the BI professionals working with this team now are trying to decide which metrics are useful in a dashboard designed to increase customer satisfaction ratings for support tickets. Perhaps their stakeholders are interested in monitoring consults to ensure that customers are getting the help they need in a timely manner. So the BI team considers adding consult rate, which is the rate at which customer support agents are asking for help from internal experts, as a metric in their dashboard.
+
+Note that an increasing consult rate could be good or bad. It might mean that customer support agents are being more customer-centric and trying to ensure each customer gets the best answer. But it could also mean that agents are being overwhelmed with complaints and having to offload them onto internal experts in order to keep up. Therefore, consult rate is a metric that doesn’t have a clear direction; nor does it have an obvious influence on the decision-making process on its own. So, it’s not a useful metric for this dashboard. Instead, the BI professionals select metrics that indicate success or failure in a more meaningful way. For instance, they might decide to include a metric that tracks when a support agent experiences missing support documentation. This will help leaders decide whether to create more documentation for agents to reference. Notice how this metric has a clear line of action that we can take based on how high or low it is!
+
+## Conclusion
+The ability to choose metrics that inform decision-making and support project success is a key skill for your career as a BI professional. Remember to consider the number of metrics, how they align with your business objectives, the technologies and processes necessary to measure them, and how they adhere to SMART methodology. It’s also important to maintain an integrated view of the entire business and how the information your metrics deliver is used to guide stakeholder action.
